@@ -3,4 +3,8 @@ I'm a **Software Engineer**
 
 
 ## Technologies
+- PHP
+- MySQL
+- Laravel
+- Java
 
